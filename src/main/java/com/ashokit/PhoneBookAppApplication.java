@@ -8,6 +8,7 @@ public class PhoneBookAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PhoneBookAppApplication.class, args);
+		System.out.println("enter the application");
 	}
 
 }
